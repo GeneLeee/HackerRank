@@ -1,0 +1,3 @@
+This folder's code is not Hackerrank's code.
+This is Codility code.
+( https://codility.com )

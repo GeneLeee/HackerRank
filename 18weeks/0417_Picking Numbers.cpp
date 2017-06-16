@@ -1,4 +1,4 @@
-// 2017.04.18 , 18ÁÖÂ÷ , https://www.hackerrank.com/challenges/picking-numbers
+//2017.04.17, 18weeks, https://www.hackerrank.com/challenges/picking-numbers/problem
 
 #include <map>
 #include <set>

@@ -1,6 +1,6 @@
 //Lee HyunSik
 //2017.11.23
-//여기에 주소
+//https://www.hackerrank.com/challenges/bigger-is-greater/problem
 
 #include <cmath>
 #include <cstdio>
@@ -29,7 +29,7 @@ int main() {
                 break;
             }
         }
-
+        //pivot is ok. now do swap
         for( j = str.size()-1 ; j > 0 ; j-- ){
             if( (int)str[j] > pivot ){
                 char temp = (char)pivot;
@@ -38,7 +38,7 @@ int main() {
                 break;
             }
         }
-
+        //reverse.
         if( str == origin )
             cout << "no answer" << endl;
         else{
